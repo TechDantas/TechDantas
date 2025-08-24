@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💎 Olá, eu sou Kauan Dantas
 
-<!--
-**TechDantas/TechDantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cibersegurança`**
 
-Here are some ideas to get you started:
+🔐 Interessado por **Cibersegurança** e pelo impacto da tecnologia na proteção da informação.  
+🎓 Estudante de **Ciência da Computação**, com interesse em **Segurança da Informação**.  
+💻 Buscando sempre aprender novas tecnologias e aprimorar minhas habilidades em defesa cibernética.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Tecnologias & Ferramentas
+
+**`Em Desenvolvimento`**
+
+***No momento me encontro estudando para aprimorar o meu conhecimento nas Tecnologias e Ferramentas.***
+
+## 📚 Atualmente estudando
+
+**`Atualizações em Breve`**
+
+## 🌎 Onde me encontrar
+- LinkedIn: [[TechDantas](https://www.linkedin.com/in/kauan-dantas-16772837b)]
+- E-mail: **techdantas17@gmail.com**  
+
+
+
+
